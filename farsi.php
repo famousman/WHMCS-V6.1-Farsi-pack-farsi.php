@@ -1884,30 +1884,30 @@ $_LANG['quotes'] = "نقل قول";
 $_LANG['productMustBeActiveForModuleCmds'] = "محصول انتخابی باید فعال باشد";
 $_LANG['domainCannotBeManagedUnlessActive'] = "این دامنه فعال نیست. دامنه ی فعال قابل مدیریت میباشد";
 
-$_LANG['actionRequiresAtLeastOneDomainSelected'] = "Please select at least one domain to perform the selected action on.";
+$_LANG['actionRequiresAtLeastOneDomainSelected'] = "لطفا حداقل یک دامنه برای انجام عمل مورد نظر انتخاب نمایید.";
 
-$_LANG['clientAreaProductDownloadsAvailable'] = "The following download items are available for your product/service";
-$_LANG['clientAreaProductAddonsAvailable'] = "Addons are available for your product/service. <a href=\"cart.php?gid=addons\">Click here to view &amp; order &raquo;</a>";
-$_LANG['clientAreaSecurityTwoFactorAuthRecommendation'] = "We strongly encourage you to enable Two-Factor Authentication for added security.";
-$_LANG['clientAreaSecurityNoSecurityQuestions'] = "Setting a security question and answer helps protect your account from unauthorized password resets and allows us to verify your identity when requesting account changes.";
-$_LANG['clientAreaSecuritySecurityQuestionOtherError'] = "The security question helps protect your account from unauthorized password resets and allows us to verify your identity when requesting account changes.";
+$_LANG['clientAreaProductDownloadsAvailable'] = "موارد زیر آماده دانلود برای محصول / خدمات شما می باشد.";
+$_LANG['clientAreaProductAddonsAvailable'] = "افزونه هابرای محصول / خدمات شما در دسترس هستند. <a href=\"cart.php?gid=addons\">Click here to view &amp; order &raquo;</a>";
+$_LANG['clientAreaSecurityTwoFactorAuthRecommendation'] = "ما به شدت شما را به فعال کردن دو فاکتور امنیتی اضافه شده تشویق می کنیم";
+$_LANG['clientAreaSecurityNoSecurityQuestions'] = "تنظیم یک سوال امنیتی و جواب آن به محافظت اکانت شما از تنظیم پسوردهای غیر مجاز کمک می کند و به ما اجازه بررسی هویت شما را در زمان درخواست تغییر اکانت می دهد.";";
+$_LANG['clientAreaSecuritySecurityQuestionOtherError'] = "سوال امنیتی به محافظت اکانت شما از تنظیم پسوردهای غیرمجاز کمک میکند و به ما اجازه بررسی هویت شما را در زمان درخواست تغییر اکانت می دهد";
 
 $_LANG['billingAddress'] = "Billing Address";
 
-$_LANG['noPasswordResetWhenLoggedIn'] = "You cannot request a password reset when logged in. Please logout to begin.";
+$_LANG['noPasswordResetWhenLoggedIn'] = "شما در زمانی که به سیستم وارد شده اید نمی توانید پسورد را مجدد تنظیم کنید. لطفا برای شروع از سیستم خارج شوید";
 
-$_LANG['unableToLoadShoppingCart'] = "Unable to load your shopping cart. Please contact support.";
+$_LANG['unableToLoadShoppingCart'] = "کارت خرید شما قادر به لود شدن نیست. لطفا با پشتیبانی تماس بگیرید";
 
-$_LANG['showMenu'] = "Show Menu";
-$_LANG['hideMenu'] = "Hide Menu";
+$_LANG['showMenu'] = "نمایش منو";
+$_LANG['hideMenu'] = "مخفی کردن منو";
 
-$_LANG['from'] = "From";
-$_LANG['featuredProduct'] = "Most Popular";
+$_LANG['from'] = "از";
+$_LANG['featuredProduct'] = "محبوبترین";
 $_LANG['shoppingCartProductPerMonth'] = "<span>:price</span>/:countmo";
 $_LANG['shoppingCartProductPerYear'] = "<span>:price</span>/:countyr";
 
-$_LANG['orderForm']['findNewDomain'] = "Find your new domain name. Enter your name or keywords below to check availability.";
-$_LANG['orderForm']['transferExistingDomain'] = "Transfer your existing domain names to us and save.";
+$_LANG['orderForm']['findNewDomain'] = "نام دامنه جدید خود را پیدا کنید. نام خود یا کلمات کلیدی را برای  بررسی در دسترس بودن وارد کنید";
+$_LANG['orderForm']['transferExistingDomain'] = "نام دامنه های موجود خود را برای ذخیره سازی به ما انتقال دهید";
 $_LANG['orderForm']['www'] = "www.";
 $_LANG['orderForm']['check'] = "Check";
 $_LANG['orderForm']['returnToClientArea'] = "Return to Client Area";
