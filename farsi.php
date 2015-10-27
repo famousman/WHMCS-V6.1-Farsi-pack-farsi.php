@@ -1645,46 +1645,46 @@ $_LANG['nextdue'] = "سررسید بعدی";
 $_LANG['domaincheckertagline'] = "درحال جستجوی دامنه ای مناسب برای شما...";
 $_LANG['findyourdomain'] = "دامنه جدید خود را پیدا کنید";
 $_LANG['searchtermrequired'] = "شما باید یک نام یا کلید واژه وارد کنید";
-$_LANG['unabletolookup'] = "Sorry, unable to lookup the term as provided";
+$_LANG['unabletolookup'] = "متاسفانه قادر به بازیابی اطلاعات در این لحظه نیستیم";
 $_LANG['invalidchars'] = "لطفا فاصله و حروف خاص را حذف کنید.";
 $_LANG['bulkoptions'] = "تنظمیان انبوه";
 $_LANG['checkingdomain'] = "در حال جستحوی دامنه درخواستی شما، امیدواریم در دسترس باشد...";
 $_LANG['domainsgotocheckout'] = "رفتن به مرحله پرداخت";
 $_LANG['domainssearchresults'] = "نتایج جستجو";
 $_LANG['domainssuggestions'] = "پیشنهادات";
-$_LANG['domainsothersuggestions'] = "You might also be interested in the following alternative names";
+$_LANG['domainsothersuggestions'] = "پیشنهادات جایگزین دیگر";
 $_LANG['domainsmoresuggestions'] = "پیشنهادات دیگری میخواهم.";
-$_LANG['domainssuggestionswarnings'] = "Domain name suggestions may not always be available. Availability is checked in real-time at the point of adding to the cart.";
+$_LANG['domainssuggestionswarnings'] = "سرویس پیشنهاد دامنه همیشه قابل استفاده نیست،  اطمینان از آزاد بودن دامنه انتخابی شما بهنگام خرید بررسی خواهد شد";
 $_LANG['disclaimers'] = "Disclaimers";
-$_LANG['tldpricing'] = "TLD Pricing";
+$_LANG['tldpricing'] = "قیمت پسوندها";
 $_LANG['alltldpricing'] = "قیمت کلیه پسوند ها";
 
-$_LANG['quotesdesc'] = "Quotes we have generated for you";
+$_LANG['quotesdesc'] = "مواردی که ما برای شما تولید کرده ایم ";
 $_LANG['quotesrejected'] = "رد شده است";
 
 $_LANG['ticketsyourhistory'] = "تاریخچه تیکت شما";
 
 $_LANG['clientareaemaildesc'] = "تاریخچه ایمیل شما";
 
-$_LANG['sslconfssl'] = "Configure SSL";
-$_LANG['sslnoconfigurationpossible'] = "Configuration has already been completed! Please contact support if you are experiencing issues.";
+$_LANG['sslconfssl'] = "تنظیمات SSL";
+$_LANG['sslnoconfigurationpossible'] = "تنظیمات با موفقیت تکمیل شد!  اگر مشکلی دارید در قسمت پشتیبانی مطرح کنید";
 
-$_LANG['adminloggedin'] = "You are currently logged in as an admin.";
-$_LANG['returntoadminarea'] = "Return to Admin Area";
-$_LANG['adminmasqueradingasclient'] = "You are currently masquerading as a client.";
-$_LANG['logoutandreturntoadminarea'] = "Logout & return to Admin Area";
+$_LANG['adminloggedin'] = "شما بعنوان مدیر وارد شده اید";
+$_LANG['returntoadminarea'] = "بازگشت به کنترل پنل مدیریت";
+$_LANG['adminmasqueradingasclient'] = "شما بعنوان کاربر وارد شده اید";
+$_LANG['logoutandreturntoadminarea'] = "خروج و بازگشت به کنترل پنل مدیریت";
 
-$_LANG['supportAndUpdatesExpired'] = "Support & Updates are expired.";
-$_LANG['supportAndUpdatesExpiredLicense'] = "Your Support & Updates period for this license has expired";
-$_LANG['supportAndUpdatesRenewalRequired'] = "Support & Updates access needs to be renewed before you can access this download.";
-$_LANG['supportAndUpdatesClickHereToRenew'] = "Click Here to Renew";
+$_LANG['supportAndUpdatesExpired'] = "پشتیبانی و بروز رسانی منقضی شده است";
+$_LANG['supportAndUpdatesExpiredLicense'] = "دوره پشتیبانی و بروز رسانی شما برای این لایسنس منقضی شده است";
+$_LANG['supportAndUpdatesRenewalRequired'] = "برای دانلود باید دسترسی پشتیبانی و بروز رسانی خود را تمدید کنید";
+$_LANG['supportAndUpdatesClickHereToRenew'] = "برای تمدید اینجا کلیک کنید";
 
-$_LANG['pwresetemailneeded'] = "Forgotten your password? Enter your email address below to begin the reset process.";
+$_LANG['pwresetemailneeded'] = "رمزعبور خود را فراموش کرده اید؟ ایمیل خود را در زیر وارد کنید تا فرآیند بازیابی رمزعبور آغاز شود";
 
-$_LANG['quotestageexpired'] = "Expired";
+$_LANG['quotestageexpired'] = "منقضی شده";
 
-$_LANG['ticketinfo'] = "Ticket Information";
-$_LANG['customfield'] = "Custom Fields";
+$_LANG['ticketinfo'] = "اطلاعات تیکت";
+$_LANG['customfield'] = "فیلدهای اختصاصی";
 
 $_LANG['domainsActive'] = "فعال";
 $_LANG['domainsExpired'] = "منقضی شده";
@@ -1692,12 +1692,12 @@ $_LANG['domainsCancelled'] = "لغو شده";
 $_LANG['domainsFraud'] = "کلاهبردار";
 $_LANG['domainsPending'] = "معلق";
 $_LANG['domainsPendingTransfer'] = "انتقال معلق";
-$_LANG['domainsExpiringInTheNext30Days'] = "Expiring within 30 Days";
-$_LANG['domainsExpiringInTheNext90Days'] = "Expiring within 90 Days";
-$_LANG['domainsExpiringInTheNext180Days'] = "Expiring within 180 Days";
-$_LANG['domainsExpiringInMoreThan180Days'] = "Expiring in 180+ Days";
+$_LANG['domainsExpiringInTheNext30Days'] = "تا 30 روز دیگر منقضی می شود";
+$_LANG['domainsExpiringInTheNext90Days'] = "تا 90 روز دیگر منقضی می شود";
+$_LANG['domainsExpiringInTheNext180Days'] = "تا 180 روز دیگر منقضی می شود";
+$_LANG['domainsExpiringInMoreThan180Days'] = "تا 180+ روز دیگر منقضی می شود";
 
-$_LANG['kbtagcloud'] = "Tag Cloud";
+$_LANG['kbtagcloud'] = "برچسب ها";
 
 $_LANG['cancellationrequestedexplanation'] = "یک درخواست لغو برای این محصول/صرویس قبلا ارسال شده است";
 $_LANG['cancellationrequested'] = "درخواست لغو ارسال شد";
