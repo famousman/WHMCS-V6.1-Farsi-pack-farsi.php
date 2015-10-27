@@ -780,7 +780,7 @@ $_LANG['supportticketsticketurgencylow'] = "کم";
 $_LANG['supportticketsticketurgencymedium'] = "متوسط";
 $_LANG['supportticketsuploadfailed'] = "فایل الصاقی آپلود نشد";
 $_LANG['supportticketsviewticket'] = "مشاهده تیکت";
-$_LANG['supportticketclosedmsg'] = "This ticket is closed.  You may reply to this ticket to reopen it.";
+$_LANG['supportticketclosedmsg'] = "این تیکت بسته شده است. شما این امکان را دارید که با پاسخ دادن به تیکت آن را بازگشایی کنید";
 $_LANG['telesignincorrectpin'] = "کد اشتباه است!";
 $_LANG['telesigninitiatephone'] = "ما نمی توانیم تایید شما را با تلفن انجام دهیم. لطفا به واحد پشتیبانی اطلاع دهید.";
 $_LANG['telesigninvalidnumber'] = "شماره تلفن نادرست است";
@@ -1987,5 +1987,5 @@ $_LANG['domainChecker.additionalPricingOptions'] = "Additional Pricing Options F
 
 $_LANG['orderpaymenttermfree'] = "Free";
 
-$_LANG['cPanel']['usageStatsBwOverLimit'] = "You have exceeded your bandwidth limit.";
-$_LANG['cPanel']['usageStatsDiskOverLimit'] = "You have exceeded your disk space limit.";
+$_LANG['cPanel']['usageStatsBwOverLimit'] = "شما از حد پهنای باند خود فراتر رفته اید";
+$_LANG['cPanel']['usageStatsDiskOverLimit'] = "شما از حد فضای دیسک خود فراتر رفته اید";
