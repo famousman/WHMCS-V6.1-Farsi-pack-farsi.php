@@ -1608,19 +1608,19 @@ $_LANG['ticketfeedbackforticket'] = "برای تیکت #";
 $_LANG['notifications'] = "پیام ها";
 $_LANG['notificationsnone'] = "شما هیچ پیامی در این لحظه ندارید";
 
-$_LANG['creditcardnonestored'] = "No card on file";
+$_LANG['creditcardnonestored'] = "کارتی در فایل وجود ندارد";
 
-$_LANG['kbviewingarticlestagged'] = "Viewing articles tagged";
+$_LANG['kbviewingarticlestagged'] = "نمایش مقالات تگ شده";
 
-$_LANG['domainprivatenameservers'] = "Private Nameservers";
+$_LANG['domainprivatenameservers'] = "خصوصی Nameservers";
 
 $_LANG['transferinadomain'] = "انتقال دامنه";
 
-$_LANG['nodomainextensions'] = "There are no Domain Extensions currently configured for purchase";
+$_LANG['nodomainextensions'] = "دامنه ای برای فروش وجود ندارد";
 
-$_LANG['homebegin'] = "Begin the search for your perfect domain name...";
-$_LANG['howcanwehelp'] = "How can we help today?";
-$_LANG['exampledomain'] = "eg. yourdomain.com";
+$_LANG['homebegin'] = "برای بررسی دامنه مورد نظر خود را حستجو کنید";
+$_LANG['howcanwehelp'] = "دنبال چه هستید";
+$_LANG['exampledomain'] = "بطور مثال yourdomain.com";
 $_LANG['buyadomain'] = "خرید یک دامنه";
 $_LANG['orderhosting'] = "سفارش میزبانی";
 $_LANG['makepayment'] = "ایجاد تراکنش";
@@ -1637,7 +1637,7 @@ $_LANG['readyforquestions'] = "ما آماده و منتظر سوالات شما
 $_LANG['restrictedpage'] = "این صفحه محدود شده است";
 $_LANG['enteremail'] = "ایمیل را وارد کنید";
 
-$_LANG['passwordtips'] = "<strong>Tips for a good password</strong><br />Use both upper and lowercase characters<br />Include at least one symbol (# $ ! % &amp; etc...)<br />Don't use dictionary words";
+$_LANG['passwordtips'] = "<strong>ویژگی های رموز عبور مناسب</strong><br />از کاراکترهای کوچک و بزرگ استفاده کنید <br />حداقل از یک نماد استفاده کنید (# $ ! % &amp; etc...)<br />از کلمات معمولی استفاده نکنید";
 
 $_LANG['regdate'] = "تاریخ ثبت";
 $_LANG['nextdue'] = "سررسید بعدی";
