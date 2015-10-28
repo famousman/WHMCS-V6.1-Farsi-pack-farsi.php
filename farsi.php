@@ -867,7 +867,7 @@ $_LANG['invoicepaymentfailedconfirmation'] = "متاسفانه پرداخت شم
 
 # Version 4.2
 
-$_LANG['promoappliedbutnodiscount'] = "The promotion code you entered has been applied to your cart but no items qualify for the discount yet - please check the promotion terms";
+$_LANG['promoappliedbutnodiscount'] = "کد تخفیف وارد شده توسط شما به سبد خرید اعمال شد، اما هیچ آیتمی واجد شرایط تخفیف نمی باشد- لطفا شرایط تخفیف را بررسی کنید";
 
 $_LANG['upgradeerroroverdueinvoice'] = "You cannot currently upgrade or downgrade this product because an invoice has already been generated for the next renewal.<br /><br />To proceed, please first pay the outstanding invoice and then you will be able to upgrade or downgrade immediately following that and be charged the difference or credited as appropriate.";
 $_LANG['upgradeexistingupgradeinvoice'] = "You cannot currently upgrade or downgrade this product because an upgrade or downgrade is already in progress.<br /><br />To proceed, please first pay the outstanding invoice and then you will be able to upgrade or downgrade immediately following that and be charged the difference or credited as appropriate.<br/><br/>If you believe you are receiving this message in error, please submit a trouble ticket.";
@@ -1796,7 +1796,7 @@ $_LANG['clientHomeSearchKb'] = "سوال خود را جهت جستجو در بخ
 
 $_LANG['whoisContactWarning'] = "بسیار مهم است که اطلاعات هویز دامنه خود را به روز نگهدارید تا دسترسی به دامنه را از دست ندهید";
 
-$_LANG['paymentstodate'] = "Payments to Date";
+$_LANG['paymentstodate'] = "پرداخت برحسب تاریخ";
 $_LANG['balancedue'] = "بدهی معوقه";
 $_LANG['submitpayment'] = "ثبت پرداخت";
 
@@ -1831,7 +1831,7 @@ $_LANG['licensingaddon']['validips'] = "آی پی های مجاز";
 $_LANG['licensingaddon']['validdirectory'] = "آدرس مجاز";
 $_LANG['licensingaddon']['status'] = "وضعیت لایسنس";
 $_LANG['licensingaddon']['reissue'] = "Reissue";
-$_LANG['licensingaddon']['reissuestatusmsg'] = "The Valid Domain, IP and Directory will be detected & saved the next time the license is accessed.";
+$_LANG['licensingaddon']['reissuestatusmsg'] = "در مجوز دسترسی بعدی اعتبار دامنه، آی پی و فهرست راهنما شناسایی و ذخیره خواهند شد";
 
 $_LANG['affiliateWithdrawalSummary'] = "You will be able to request a withdrawal as soon as your balance reaches the minimum required amount of :amountForWithdrawal.";
 
@@ -1839,7 +1839,7 @@ $_LANG['projectManagement']['activeProjects'] = "پروژه های فعال شم
 
 # cPanel Module
 
-$_LANG['cPanel']['packageDomain'] = "Package/Domain";
+$_LANG['cPanel']['packageDomain'] = "پکیج/دامنه";
 $_LANG['cPanel']['addonsExtras'] = "Addons & Extras";
 $_LANG['cPanel']['purchaseActivate'] = "Pخرید و فعال سازی";
 
@@ -1932,7 +1932,7 @@ $_LANG['orderForm']['state'] = "استان";
 $_LANG['orderForm']['postcode'] = "کد پستی";
 $_LANG['orderForm']['domainAlternativeContact'] = "ممکن است شما هنگام قرار دادن سفارش از طرف شخص یا نهاد دیگری اطلاعات تماس جایگزینی را برای ثبت نام دامنه مشخص کنید، درصورتی که نیاز به این کار ندارید میتوانید ازین بخش عبور کنید";
 $_LANG['orderForm']['accountSecurity'] = "امنیت حساب";
-$_LANG['orderForm']['mediumStrength'] = "Medium Strength";
+$_LANG['orderForm']['mediumStrength'] = "متوسط قدرت";
 $_LANG['orderForm']['paymentDetails'] = "جزئیات پرداخت";
 $_LANG['orderForm']['preferredPaymentMethod'] = "لطفا روش پرداخت مورد نظر خود را انتخاب کنید";
 $_LANG['orderForm']['cardNumber'] = "شماره کارت";
@@ -1948,7 +1948,7 @@ $_LANG['orderForm']['check'] = "بررسی";
 $_LANG['orderForm']['transfer'] = "انتقال";
 $_LANG['orderForm']['domainAddedToCart'] = "این دامنه به سبد خرید شما اضافه شده است";
 $_LANG['orderForm']['registerLongerAndSave'] = "Register for longer and save!";
-$_LANG['orderForm']['tryRegisteringInstead'] = "Try registering this domain instead.";
+$_LANG['orderForm']['tryRegisteringInstead'] = "درعوض این دامنه را ثبت کنید";
 $_LANG['orderForm']['domainAvailabilityCached'] = "نتایج دردسترس بودن دامنه کش شده است که ممکن است منجر به نمایش داده شدن دامنه تازه ثبت نام شده بعنوان دردسترس بشود";
 $_LANG['orderForm']['submitTicket'] = "ارسال تیکت";
 $_LANG['orderForm']['promotionAccepted'] = "ارتقا کد پذیرفته شده! مجموع سفارش شما به روز شده است";
@@ -1981,7 +1981,7 @@ $_LANG['cloudSlider']['feature02Description'] = "خدمات ما توسط صده
 $_LANG['cloudSlider']['feature02DescriptionTwo'] = "ما متعهد به پشتیبانی از تمام مشتریان در سراسر دنیا هستیم. ما اینجاییم تا با ارائه خدمات هاستینگ به هر وسیله ممکن به شما کمک کنیم، و شما می توانید بوسیله تلفن، ایمیل و یا چت آنلاین با ما در ارتباط باشید.";
 $_LANG['cloudSlider']['feature03Title'] = "رده امنیتی بالا";
 $_LANG['cloudSlider']['feature03Description'] = "Rest easy knowing that we provide 24/7 security monitoring and DDoS protection. You take protecting your customer's data seriously, and so do we. Our security team and safeguards are on the job all day, every day to provide the level of security needed in today's digital age.";
-$_LANG['cloudSlider']['feature03DescriptionTwo'] = "A wide range of security tools are at your disposal, including SSL certificates, firewall configuration, security monitoring services, VPN access, and more.";
+$_LANG['cloudSlider']['feature03DescriptionTwo'] = "طیف گسترده ای از ابزارهای امنیتی در اختیار شما هستند، شامل گواهی  اس اس ال، پیکربندی فایروال، خدمات نظارت بر امنیت، دسترسی به وی پی ان، و غیره";
 
 $_LANG['domainChecker.additionalPricingOptions'] = "Additional Pricing Options For :domain";
 
